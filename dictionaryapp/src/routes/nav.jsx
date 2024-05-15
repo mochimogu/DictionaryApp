@@ -17,6 +17,9 @@ export default function Nav() {
                     <a className="nav-link" href="/about">About</a>
                 </li>
                 <li className="nav-item p-2 fs-5">
+                    <a className="nav-link" href="/logIn">Log In</a>
+                </li>
+                <li className="nav-item p-2 fs-5">
                     <a className="nav-link" href="/favorite">Favorite</a>
                 </li>
             </ul>
